@@ -48,7 +48,7 @@
 💧 Automated Water Tank System – Monitors & refills water based on level detection.
 🏠 Home Automation System - Arduino sensors for smart lighting and door/gate control.
 ```
->worked on 10+ both Group and Individual Software Development Projects
+>Worked on 10+ both Group and Individual Software Development Projects
 
 >Worked on 10+ Web Development Projects.
 
